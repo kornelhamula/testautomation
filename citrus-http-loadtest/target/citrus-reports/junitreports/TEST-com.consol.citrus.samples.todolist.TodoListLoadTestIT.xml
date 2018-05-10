@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.consol.citrus.samples.todolist.TodoListLoadTestIT" time="0.0" tests="20" errors="0" skipped="0" failures="0">
+    <testcase name="TodoListLoadTestIT.testAddTodo" classname="com.consol.citrus.samples.todolist.TodoListLoadTestIT" time="0.0"/>
+    <testcase name="TodoListLoadTestIT.testAddTodo" classname="com.consol.citrus.samples.todolist.TodoListLoadTestIT" time="0.0"/>
+    <testcase name="TodoListLoadTestIT.testAddTodo" classname="com.consol.citrus.samples.todolist.TodoListLoadTestIT" time="0.0"/>
+    <testcase name="TodoListLoadTestIT.testAddTodo" classname="com.consol.citrus.samples.todolist.TodoListLoadTestIT" time="0.0"/>
+    <testcase name="TodoListLoadTestIT.testAddTodo" classname="com.consol.citrus.samples.todolist.TodoListLoadTestIT" time="0.0"/>
+    <testcase name="TodoListLoadTestIT.testAddTodo" classname="com.consol.citrus.samples.todolist.TodoListLoadTestIT" time="0.0"/>
+    <testcase name="TodoListLoadTestIT.testAddTodo" classname="com.consol.citrus.samples.todolist.TodoListLoadTestIT" time="0.0"/>
+    <testcase name="TodoListLoadTestIT.testAddTodo" classname="com.consol.citrus.samples.todolist.TodoListLoadTestIT" time="0.0"/>
+    <testcase name="TodoListLoadTestIT.testAddTodo" classname="com.consol.citrus.samples.todolist.TodoListLoadTestIT" time="0.0"/>
+    <testcase name="TodoListLoadTestIT.testAddTodo" classname="com.consol.citrus.samples.todolist.TodoListLoadTestIT" time="0.0"/>
+    <testcase name="TodoListLoadTestIT.testListTodos" classname="com.consol.citrus.samples.todolist.TodoListLoadTestIT" time="0.0"/>
+    <testcase name="TodoListLoadTestIT.testListTodos" classname="com.consol.citrus.samples.todolist.TodoListLoadTestIT" time="0.0"/>
+    <testcase name="TodoListLoadTestIT.testListTodos" classname="com.consol.citrus.samples.todolist.TodoListLoadTestIT" time="0.0"/>
+    <testcase name="TodoListLoadTestIT.testListTodos" classname="com.consol.citrus.samples.todolist.TodoListLoadTestIT" time="0.0"/>
+    <testcase name="TodoListLoadTestIT.testListTodos" classname="com.consol.citrus.samples.todolist.TodoListLoadTestIT" time="0.0"/>
+    <testcase name="TodoListLoadTestIT.testListTodos" classname="com.consol.citrus.samples.todolist.TodoListLoadTestIT" time="0.0"/>
+    <testcase name="TodoListLoadTestIT.testListTodos" classname="com.consol.citrus.samples.todolist.TodoListLoadTestIT" time="0.0"/>
+    <testcase name="TodoListLoadTestIT.testListTodos" classname="com.consol.citrus.samples.todolist.TodoListLoadTestIT" time="0.0"/>
+    <testcase name="TodoListLoadTestIT.testListTodos" classname="com.consol.citrus.samples.todolist.TodoListLoadTestIT" time="0.0"/>
+    <testcase name="TodoListLoadTestIT.testListTodos" classname="com.consol.citrus.samples.todolist.TodoListLoadTestIT" time="0.0"/>
+</testsuite>
